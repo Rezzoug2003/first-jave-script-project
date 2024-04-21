@@ -1,1 +1,1 @@
-# first-jave-script-project
+# first-java-script-project
